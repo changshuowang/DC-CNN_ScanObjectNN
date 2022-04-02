@@ -59,7 +59,7 @@ contact email: [wangchangshuo@semi.ac.cn](wangchangshuo@semi.ac.cn).
 
 Our implementation is mainly based on the following codebases. We gratefully thank the authors for their wonderful works.
 
-[pointMLP](https://github.com/changshuowang/pointMLP-pytorch),
+[PointMLP](https://github.com/changshuowang/pointMLP-pytorch),
 [EllipsoidQuery](https://github.com/VimsLab/EllipsoidQuery),
 [RS-CNN](https://github.com/Yochengliu/Relation-Shape-CNN/),
 [Pointnet2_PyTorch](https://github.com/erikwijmans/Pointnet2_PyTorch)
